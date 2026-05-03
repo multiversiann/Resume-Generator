@@ -1,2 +1,3 @@
-It's a simple and Unique Project created by me : Rashid Ahmad .
-Ensures that create a Resume for you . 
+## 🌐 Live 
+
+🔗 [Click here to view the live website](https://multiversiann.github.io/Resume-Generator/)
